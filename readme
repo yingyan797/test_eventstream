@@ -1,1 +1,20 @@
-# Event stream simulator for AI responses
+Event stream simulator for AI responses
+
+Setup Instructions
+
+Backend Setup
+backend/requirements.txt:
+Install dependencies:
+`pip install -r requirements.txt`
+Set your Gemini API key:
+
+Run backend:
+`python app.py`
+
+Frontend Setup
+Same as before - use the React frontend files from the previous setup.
+
+Install and run:
+bashcd frontend
+`npm install`
+`npm run dev`
